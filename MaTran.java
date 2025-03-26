@@ -40,6 +40,7 @@ public class MaTran {
         // test
         xuatMaTran(fourInt);
 
+
         scanner.close();
     }
 }
